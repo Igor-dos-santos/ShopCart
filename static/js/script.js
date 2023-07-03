@@ -52,12 +52,10 @@ $(document).ready(function() {
 	} // end if
 
 
-
+    setTimeout(function() {
+        $('#message').fadeOut('slow');
+    }, 5000); // 5000 milliseconds = 5 seconds
 
     
 }); 
 // jquery end
-
-setTimeout(function(){
-    $('#message').fadeOut('slow')
-}, 4000)
