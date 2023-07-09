@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'accounts',
     'store',
     'carts',
+    'orders',
 ]
 
 MIDDLEWARE = [
@@ -146,13 +147,13 @@ MESSAGE_TAGS = {
 #EMAIL_HOST = 'smtp.gmail.com'
 #EMAIL_PORT = 587 #Gmail code for the port
 #EMAIL_HOST_USER = 'igor.work02@gmail.com'
-#EMAIL_HOST_PASSWORD = 'Pa55w0rd#1234567'
+#EMAIL_HOST_PASSWORD = ''
 #EMAIL_USE_TLS = True
 # SMTP configuration for Outlook.com (Hotmail)
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp-mail.outlook.com'
 EMAIL_PORT = 587
-EMAIL_HOST_USER = 'igor.work02@outlook.com'
-EMAIL_HOST_PASSWORD = 'Pa55w0rd#123'
+EMAIL_HOST_USER = 'shop.cart@outlook.com'
+EMAIL_HOST_PASSWORD = 'ShopCart!Email23!'
 EMAIL_USE_TLS = True
-DEFAULT_FROM_EMAIL = 'igor.work02@outlook.com'
+DEFAULT_FROM_EMAIL = 'shop.cart@outlook.com'
