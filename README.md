@@ -1,8 +1,8 @@
-🛍️ Welcome to Shop Cart Web Application! 🛍️
-
 ![Shop Cart Logo](./static/images/logoTransparent.png)
 
-Hey there! I'm [Your Name], and I'm super excited to introduce you to Shop Cart – the ultimate online shopping experience designed with love and care! 🎉
+🛍️ Welcome to Shop Cart Web Application! 🛍️
+
+Hey there! I'm [Igor Dos Santos], and I'm super excited to introduce you to Shop Cart – the ultimate online shopping experience designed with love and care! 🎉
 
 ### 🌟 What is Shop Cart? 🌟
 
@@ -11,10 +11,10 @@ Shop Cart is an innovative and secure e-commerce platform that aims to revolutio
 ### 🛒 Key Features & Highlights 🛒
 
 - **User-Friendly Interface**: Our sleek and intuitive interface lets you browse through an extensive collection of products with ease. Finding your favorite items has never been more delightful! 😍
-- **Smart Recommendations**: Shop Cart's intelligent system suggests personalized product recommendations based on your browsing history, ensuring you discover exciting new items tailored just for you. 🎁
-- **Secure Payment Gateway**: Rest easy knowing that your payment information is fully protected with state-of-the-art encryption and secure authentication protocols. Your data's safety is our top priority. 🔒
+- **Smart Search**: Shop Cart's intelligent system helps you discover exciting new items tailored just for you by searching keywords and filtering through desired items. 🎁
+- **Secure Payment Gateway**: Rest easy knowing that your payment information is fully protected with state-of-the-art encryption and secure authentication protocols with payments processed through PayPal. Your data's safety is our top priority. 🔒
 - **Responsive Design**: Whether you're shopping from your desktop, tablet, or phone, Shop Cart adapts seamlessly to provide you with a flawless shopping experience, no matter the device. 📱
-- **Real-Time Order Tracking**: Stay in the loop with live updates on your order status. You'll never have to wonder when your eagerly awaited package will arrive! 🚚
+- **Real-Time Order Tracking**: Stay in the loop with live updates on your order status by email. You'll never have to wonder when your eagerly awaited package will arrive! 🚚
 
 ### 🚀 Getting Started 🚀
 
@@ -59,6 +59,6 @@ If you have any questions, suggestions, or simply want to say hi, don't hesitate
 
 ### 🙏 Acknowledgments 🙏
 
-We want to express our heartfelt gratitude to all our contributors and the vibrant open-source community. Shop Cart wouldn't be the same without your amazing support and contributions! 🤗
+I want to express my gratitude to NCI that helped me throughout my education. Shop Cart wouldn't be possible without your amazing support and contributions! 🤗
 
-🎉 Thank you for joining us on this incredible shopping adventure with Shop Cart! Happy Shopping, and may you discover endless treasures and delightful experiences! 🎉
+🎉 Thank you for joining this incredible shopping adventure with Shop Cart! Happy Shopping, and may you discover endless treasures and delightful experiences! 🎉
