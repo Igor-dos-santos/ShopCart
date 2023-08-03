@@ -1,6 +1,6 @@
 🛍️ Welcome to Shop Cart Web Application! 🛍️
 
-![Shop Cart Logo](link-to-logo-image)
+![Shop Cart Logo](./static/images/logo.png)
 
 Hey there! I'm [Your Name], and I'm super excited to introduce you to Shop Cart – the ultimate online shopping experience designed with love and care! 🎉
 
