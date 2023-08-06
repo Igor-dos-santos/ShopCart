@@ -49,7 +49,7 @@ For returning customers, the Login Page is the gateway to their personalized das
 
 #### Dashboard
 
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./screenshots/dashboard-view.png)
 
 Welcome to your personalized dashboard! Here, you have full control over your shopping experience with Shop Cart. Let's explore the different sections and functionalities available to you:
 
