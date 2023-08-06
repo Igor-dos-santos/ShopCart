@@ -2,7 +2,7 @@
 
 🛍️ Welcome to Shop Cart Web Application! 🛍️
 
-Hey there! I'm [Igor Dos Santos], and I'm super excited to introduce you to Shop Cart – the ultimate online shopping experience designed with love and care! 🎉
+Hey there! I'm Igor Dos Santos, and I'm thrilled to introduce you to Shop Cart – the ultimate online shopping experience designed with love and care! 🎉
 
 ### 🌟 What is Shop Cart? 🌟
 
@@ -15,6 +15,36 @@ Shop Cart is an innovative and secure e-commerce platform that aims to revolutio
 - **Secure Payment Gateway**: Rest easy knowing that your payment information is fully protected with state-of-the-art encryption and secure authentication protocols with payments processed through PayPal. Your data's safety is our top priority. 🔒
 - **Responsive Design**: Whether you're shopping from your desktop, tablet, or phone, Shop Cart adapts seamlessly to provide you with a flawless shopping experience, no matter the device. 📱
 - **Real-Time Order Tracking**: Stay in the loop with live updates on your order status by email. You'll never have to wonder when your eagerly awaited package will arrive! 🚚
+
+### 🎆 Explore the App 🎆
+
+#### Home Page
+
+![Home Page](./screenshots/home-page.png)
+
+As you land on Shop Cart's home page, you're greeted with a stunning carousel displaying brand images, setting the mood for a delightful shopping experience. 🌠 The top navigation bar provides easy access to various sections, including the "Home," "Store," "Register," and "Login" pages.
+
+#### Store Page
+
+![Store Page](./screenshots/store-page.png)
+
+The heart of Shop Cart lies in the Store Page, where a plethora of products awaits you. The smart search bar empowers you to find exactly what you desire in a matter of seconds. 😎 You can also filter products by category to quickly narrow down your search.
+
+#### Product Overview
+
+![Product Overview](./screenshots/product-overview.png)
+
+Clicking on a product takes you to the Product Overview page, where you can explore detailed information about the item, including its name, price, and product image. Here, users who bought the product and are logged in can leave ratings with up to 5 stars, including half-star selections, providing valuable insights for other shoppers. 🌟
+
+#### User Registration and Sign-In
+
+![Register Page](./screenshots/register-page.png)
+
+To unlock the full potential of Shop Cart, you'll want to create an account. The Register Page makes the process a breeze, with fields for your first name, last name, email address, phone number, password, and a password confirmation for added security. Once registered, you can access your dashboard and enjoy personalized shopping features. 🎉
+
+![Login Page](./screenshots/login-page.png)
+
+For returning customers, the Login Page is the gateway to their personalized dashboard. Simply input your registered email and password to access your account, where you can view your orders and edit your profile details. 🔒
 
 ### 🚀 Getting Started 🚀
 
@@ -40,22 +70,24 @@ Ready to dive into the Shop Cart universe? Fantastic! Follow these simple steps 
 
 ### 🛠️ Testing and Quality Assurance 🛠️
 
-Our team is dedicated to ensuring Shop Cart's stability and performance. We've implemented comprehensive testing suites to identify and fix potential issues. To run these tests and keep our app in top shape, run this command:
+As the sole member of Shop Cart, I am dedicated to ensuring its stability and performance. I've implemented comprehensive testing suites to identify and fix potential issues. To run these tests and keep the app in top shape, I use the following command:
 ```
 npm test
 ```
 
 ### 🛡️ Security and Privacy 🛡️
 
-We know how crucial your personal information is, and we've taken every measure to safeguard it. Shop Cart utilizes state-of-the-art security protocols, robust encryption, and rigorous vulnerability testing to keep your data protected. Should you ever come across any security concerns, please let us know immediately through our [Security Bug Report Form](link-to-report-form). Your safety is paramount to us! 🔐
+I know how crucial your personal information is, and I've taken every measure to safeguard it. Shop Cart utilizes state-of-the-art security protocols, robust encryption, and rigorous vulnerability testing to keep your data protected. Should you ever come across any security concerns, please let me know immediately through our [Security Bug Report Form](link
+
+-to-report-form). Your safety is paramount to me! 🔐
 
 ### 📝 License and Legal Stuff 📝
 
-Shop Cart is licensed under the [MIT License](link-to-license-file). Feel free to check it out to understand your rights and the software's usage terms.
+Shop Cart is licensed under the [MIT License]([link-to-license-file](https://github.com/Igor-dos-santos/ShopCart/blob/second/LICENSE)). Feel free to check it out to understand your rights and the software's usage terms.
 
-### 📧 Reach Out to Us 📧
+### 📧 Reach Out to Me 📧
 
-If you have any questions, suggestions, or simply want to say hi, don't hesitate to reach out to us at [a2sigor@gmail.com](mailto:a2sigor@gmail.com). We love hearing from you and are here to assist you on your shopping journey! 💌
+If you have any questions, suggestions, or simply want to say hi, don't hesitate to reach out to me at [a2sigor@gmail.com](mailto:a2sigor@gmail.com). I'd love to hear from you and to assist you on your shopping journey! 💌
 
 ### 🙏 Acknowledgments 🙏
 
