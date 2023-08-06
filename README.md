@@ -46,6 +46,26 @@ To unlock the full potential of Shop Cart, you'll want to create an account. The
 
 For returning customers, the Login Page is the gateway to their personalized dashboard. Simply input your registered email and password to access your account, where you can view your orders and edit your profile details. 🔒
 
+
+#### Dashboard
+
+![Dashboard](./screenshots/dashboard.png)
+
+Welcome to your personalized dashboard! Here, you have full control over your shopping experience with Shop Cart. Let's explore the different sections and functionalities available to you:
+
+#### Profile Management
+
+![Profile Management](./screenshots/profile-management.png)
+
+Your profile is where you can view and edit your personal information. Update your name, email address, phone number, and even change your password to keep your account secure. We value your privacy and have implemented robust security measures to protect your data.
+
+#### View Order History
+
+![Order History](./screenshots/order-history.png)
+
+Curious about your past purchases? The "Order History" section displays a comprehensive list of all your previous orders. You can view the order details, including the date, order number, and total amount spent. Stay organized and keep track of your shopping history effortlessly.
+
+
 ### 🚀 Getting Started 🚀
 
 Ready to dive into the Shop Cart universe? Fantastic! Follow these simple steps to embark on your shopping adventure:
